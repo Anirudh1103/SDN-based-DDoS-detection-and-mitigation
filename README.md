@@ -81,7 +81,7 @@ The `DDoS_Analysis.ipynb` file  contains the analysis and comparison of these al
 ## Setup and Installation (Example - Adjust as needed)
 
 1.  **Install Mininet:** Follow the instructions on the official Mininet website to install Mininet.
-2.  **Install ONOS (or your chosen SDN Controller):** This project seems geared towards an ONOS-like controller structure. Install your preferred SDN controller.
+2.  **Install RYU (or your chosen SDN Controller):** This project seems geared towards an RYU-like controller structure. Install your preferred SDN controller.
 3.  **Clone the Repository:** Clone the repository to your local machine using Git.
 4.  **Install Python Libraries:** Ensure you have the necessary Python libraries installed. You can use pip to install them. A `requirements.txt` file would be beneficial to list these dependencies.
     ```bash
