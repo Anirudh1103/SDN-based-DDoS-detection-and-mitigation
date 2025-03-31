@@ -1,0 +1,9 @@
+scikit-learn
+pandas
+numpy
+mininet  # If you are directly interacting with the Mininet API within your Python scripts
+requests  # For potential HTTP communication with the controller or other services
+matplotlib  # If you are doing any plotting or visualization
+seaborn  # Another popular visualization library
+ipython  # If you are using IPython for interactive development (likely for the Jupyter Notebook)
+jupyter  # If you are using Jupyter Notebook
